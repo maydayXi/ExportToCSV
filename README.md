@@ -3,3 +3,5 @@
 ### 操作步驟
 * 將 ods_export_csv.py 檔存放 <pre>C:\Program Files\LibreOffice\share\Scripts\python</pre>目錄下
 * 功能表 → 工具 → 巨集 → 執行巨集 → Libreoffice 巨集 → ods_export_csv → 執行
+
+![Video](https://github.com/maydayXi/ExportToCSV/blob/master/20190605_015801.mp4)
